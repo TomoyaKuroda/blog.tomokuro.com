@@ -1,2 +1,7 @@
 theme: minima
 encoding: UTF-8
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
