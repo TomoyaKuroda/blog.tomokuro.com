@@ -1,7 +1,7 @@
 # Support 日本語
 encoding: UTF-8
-
 # Use theme "minima 3.0"
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 remote_theme: jekyll/minima
